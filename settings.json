@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "szkolnesmpI.aternos.me",
+    "port": 24289,
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
